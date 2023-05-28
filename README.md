@@ -1,4 +1,4 @@
-# Data-Science-and-Machine-Learning
+# Data Science and Machine Learning
 
 ## Here I have posted the project done during my prject based internship at YBI Foundation
 
